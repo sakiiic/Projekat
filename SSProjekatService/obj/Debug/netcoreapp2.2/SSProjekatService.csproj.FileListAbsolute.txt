@@ -1,0 +1,16 @@
+C:\Users\sara.cobovic\Desktop\SSProjekat\SSProjekatService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\sara.cobovic\Desktop\SSProjekat\SSProjekatService\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\sara.cobovic\Desktop\SSProjekat\SSProjekatService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\sara.cobovic\Desktop\SSProjekat\SSProjekatService\bin\Debug\netcoreapp2.2\SSProjekatService.deps.json
+C:\Users\sara.cobovic\Desktop\SSProjekat\SSProjekatService\bin\Debug\netcoreapp2.2\SSProjekatService.runtimeconfig.json
+C:\Users\sara.cobovic\Desktop\SSProjekat\SSProjekatService\bin\Debug\netcoreapp2.2\SSProjekatService.runtimeconfig.dev.json
+C:\Users\sara.cobovic\Desktop\SSProjekat\SSProjekatService\bin\Debug\netcoreapp2.2\SSProjekatService.dll
+C:\Users\sara.cobovic\Desktop\SSProjekat\SSProjekatService\obj\Debug\netcoreapp2.2\SSProjekatService.csprojAssemblyReference.cache
+C:\Users\sara.cobovic\Desktop\SSProjekat\SSProjekatService\obj\Debug\netcoreapp2.2\SSProjekatService.RazorAssemblyInfo.cache
+C:\Users\sara.cobovic\Desktop\SSProjekat\SSProjekatService\obj\Debug\netcoreapp2.2\SSProjekatService.RazorAssemblyInfo.cs
+C:\Users\sara.cobovic\Desktop\SSProjekat\SSProjekatService\obj\Debug\netcoreapp2.2\SSProjekatService.AssemblyInfoInputs.cache
+C:\Users\sara.cobovic\Desktop\SSProjekat\SSProjekatService\obj\Debug\netcoreapp2.2\SSProjekatService.AssemblyInfo.cs
+C:\Users\sara.cobovic\Desktop\SSProjekat\SSProjekatService\obj\Debug\netcoreapp2.2\SSProjekatService.RazorTargetAssemblyInfo.cache
+C:\Users\sara.cobovic\Desktop\SSProjekat\SSProjekatService\bin\Debug\netcoreapp2.2\SSProjekatService.pdb
+C:\Users\sara.cobovic\Desktop\SSProjekat\SSProjekatService\obj\Debug\netcoreapp2.2\SSProjekatService.dll
+C:\Users\sara.cobovic\Desktop\SSProjekat\SSProjekatService\obj\Debug\netcoreapp2.2\SSProjekatService.pdb
